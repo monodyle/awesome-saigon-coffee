@@ -16,13 +16,14 @@
 
 Welcome to open a pull request to add cafe you have been to. Please obtian the required information and input more other information if useful, and add them to the corresponding [geojson](https://geojson.org/geojson-spec.html).
 
-If your district or province doesn't exist, feel free to create new geojson file. Please refer to [district-1](/district-1.geojson) for the format.
+If your district or province doesn't exist, feel free to create new geojson file. Please refer to [district-1.geojson](/district-1.geojson) for the format.
 
 Or you have no idea how geojson work, you can provide me information of your lovely location.
 
 **Required information:**
 - `name`: Name of the coffee shop
 - `address`: Exact address on map
+- `coordinates`: Exactly atitude and longitude of place on maps (if you contribute on geojson file)
 
 **Nice to have:**
 - `open_time`: Opening time
